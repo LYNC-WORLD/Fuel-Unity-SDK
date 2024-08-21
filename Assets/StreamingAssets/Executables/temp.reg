@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\lyncfuel]
+"URL Protocol"=""
+@="lyncfuel"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\lyncfuel\shell]
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\lyncfuel\shell\open]
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\lyncfuel\shell\open\command]
+@="\"J:\\Unity Projects\\LYNC\\Unity-Fuel-SDK\\Assets\\StreamingAssets\\Executables\\Launcher.exe\" %1"
