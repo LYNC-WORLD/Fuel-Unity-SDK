@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: -278681970, guid: 39d1c91a2c8149447980c4d8aeb906e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LyncAPIKey: B30D905974544D082BFEA8A727534195
+  LyncAPIKey: 
   Network: 2
   SponsorTransaction: 1
   LoginOptionFirebase: 1
